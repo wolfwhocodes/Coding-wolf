@@ -8,7 +8,7 @@
   <p>Paris is the capital of Paris.</p>
 </div>
 
-<div id="Tokyo" class="city" style="display:none">
+<div id="Tokyo" style="city" class="display:none">
   <h2>Tokyo</h2>
   <p>Tokyo is the capital of Japan.</p>
 </div>
