@@ -11,4 +11,8 @@
 <div id="Tokyo" class="city" style="display:none">
   <h2>Tokyo</h2>
   <p>Tokyo is the capital of Japan.</p>
+  
+  <div id=Rome" class="city" style="display:none">
+  <h2>Tokyo</h2>
+  <p>Tokyo is the capital of Italy.</p>
 </div>
